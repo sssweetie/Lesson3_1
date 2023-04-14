@@ -15,7 +15,7 @@
 
 - **git branch** - список всех веток
 
-- **git branch -b new_branch_name** - содздать новую ветку и пререйти в нее
+- **git checkout -b new_branch_name** - содздать новую ветку и пререйти в нее
 
 - **git branch  wew_branch_name** создать новую ветку
 
