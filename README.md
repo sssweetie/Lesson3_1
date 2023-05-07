@@ -4,4 +4,4 @@
 
 Он будет отображен в удалённом репозитории.
 
- We moved to a remote repository
+ We have moved to a remote repository
